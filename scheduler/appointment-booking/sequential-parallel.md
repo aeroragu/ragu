@@ -1,0 +1,6 @@
+---
+icon: braille
+---
+
+# Sequential/Parallel
+
